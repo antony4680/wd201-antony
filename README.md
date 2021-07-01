@@ -1,6 +1,5 @@
 # WEB DEVELOPMENT 201
-The objective of this course is to teach you how to build web applications using the Ruby on Rails framework, with focus on industry-practices like object-oriented design, programming style guides, access control, and version control.<b> SHAPEAI
-</b>.
+The objective of this course is to teach you how to build web applications using the Ruby on Rails framework, with focus on industry-practices like object-oriented design, programming style guides, access control, and version control.
 
 <img src="https://cdn.glitch.com/ee6b6ce6-6b3e-44e0-9aee-4ef23212f5d8%2FWEB.PNG?v=1625019001014"> 
 
